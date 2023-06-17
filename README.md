@@ -5,15 +5,16 @@ Smoorty is a mobile app developed in Flutter that provides a stylish user interf
 ## Demo
 
 ### User Interface Screenshots
-![Screenshot 1](https://github.com/Dris7/Smoorty/assets/100499106/9583f4c8-5c0a-4d28-85ec-c001b254d50d.png)
-![Screenshot 2](https://github.com/Dris7/Smoorty/assets/100499106/2b1ee8f3-8013-4cfb-87e0-eb55d3feb2ef.png)
-![Screenshot 3](https://github.com/Dris7/Smoorty/assets/100499106/ef55807b-b48e-4264-973e-311692d4c974.png)
-![Screenshot 4](https://github.com/Dris7/Smoorty/assets/100499106/5746a078-4c52-43af-b41a-8d9d504f8aba.png)
-![Screenshot 5](https://github.com/Dris7/Smoorty/assets/100499106/6630c70d-432a-4372-9b92-3f1e2ce4c35a.png)
+<img src="https://github.com/Dris7/Smoorty/assets/100499106/9583f4c8-5c0a-4d28-85ec-c001b254d50d" width="150">
+<img src="https://github.com/Dris7/Smoorty/assets/100499106/2b1ee8f3-8013-4cfb-87e0-eb55d3feb2ef" width="150">
+<img src="https://github.com/Dris7/Smoorty/assets/100499106/ef55807b-b48e-4264-973e-311692d4c974" width="150">
+<img src="https://github.com/Dris7/Smoorty/assets/100499106/5746a078-4c52-43af-b41a-8d9d504f8aba" width="150">
+<img src="https://github.com/Dris7/Smoorty/assets/100499106/6630c70d-432a-4372-9b92-3f1e2ce4c35a" width="150">
+
 
 ### Video Demo
 
-[Watch the video demo](https://user-images.githubusercontent.com/100499106/246206946-c4ca00fe-9c69-46e2-9787-df96ede7249d.mp4)
+https://user-images.githubusercontent.com/100499106/246206946-c4ca00fe-9c69-46e2-9787-df96ede7249d.mp4
 
 ## Features
 - Capture images of handwritten equations using the device camera.
